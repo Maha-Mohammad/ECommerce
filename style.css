@@ -3,6 +3,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Baloo Tammudu 2", cursive;
+  font-weight: normal;
 }
 .header {
   background: radial-gradient(#fff, #ffd6d6);
